@@ -16,11 +16,11 @@
 
 - 💻 I’m Studying at **IJSE - Institute of Software Engineering**
 
-- 🌱 I’m currently learning **React,React-Native**
+- 🌱 I’m currently learning **React , React-Native**
 
-- 👨‍💻 My Portfolio [https://vihangaindeewara.github.io/My-Portfolio/](https://vihangaindeewara.github.io/My-Portfolio/)
+- 👨‍💻 My Portfolio  <a href="https://vihangaindeewara.github.io/My-Portfolio/">Click Me</a> 
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/VihangaIndeewara">Click Me</a> 
+- 👨‍💻 All of my projects are available at <a href="https://github.com/VihangaIndeewara?tab=repositories">Click Me</a> 
 
 - 📫 How to reach me **indeewaravihanga@gmail.com**
 
