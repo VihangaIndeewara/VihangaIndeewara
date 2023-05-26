@@ -1,4 +1,4 @@
-<p><img align="center"  style="width:1000px;height: 200px;"src="https://thumbs.gfycat.com/IckyMiserableGar-max-1mb.gif" alt="codingImg" /></p>
+<p><img align="center"  style="width:800px;height: 200px;"src="https://thumbs.gfycat.com/IckyMiserableGar-max-1mb.gif" alt="codingImg" /></p>
 
 <h1 align="center">Hi 👋, I'm Vihanga Indeewara</h1>
 
@@ -7,6 +7,7 @@
 
 <p><img align="right"  style="width: 400px;height: 400px;"src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="codingImg" /></p>
 
+<br>
 <br>
 <br>
 
