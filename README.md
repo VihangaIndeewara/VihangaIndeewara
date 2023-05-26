@@ -1,4 +1,4 @@
-<p><img align="center"  style="width:800px;height: 200px;"src="https://thumbs.gfycat.com/IckyMiserableGar-max-1mb.gif" alt="codingImg" /></p>
+<p><img align="center"  style="width:1000px;height: 200px;"src="https://thumbs.gfycat.com/IckyMiserableGar-max-1mb.gif" alt="codingImg" /></p>
 
 <h1 align="center">Hi 👋, I'm Vihanga Indeewara</h1>
 
