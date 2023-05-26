@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vihanga Indeewara</h1>
-<h3 align="center">I'M Full STACK DEVELOPER FROM SRI LANKA</h3>
+<h3 align="center">I'M FULL STACK DEVELOPER FROM SRI LANKA</h3>
 
 - 👨‍🎓 I’m **2nd Year University Student**
 
