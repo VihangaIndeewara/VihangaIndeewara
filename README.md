@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=vihangaindeewara&show_icons=true&locale=en&layout=compact](https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966)" alt="codingImg" /></p>
+<p><img align="center" src="[https://lh3.googleusercontent.com/qLidnOOOTYvTIE8QoYoLKsh75mWsfSY-AZbZnu_3N9u14XFhGmlqOe5U2ceadKkGfT7kB3IiQFzSfxHuPQICTY3_Li6RruSyrgmKr3I](https://lh3.googleusercontent.com/qLidnOOOTYvTIE8QoYoLKsh75mWsfSY-AZbZnu_3N9u14XFhGmlqOe5U2ceadKkGfT7kB3IiQFzSfxHuPQICTY3_Li6RruSyrgmKr3I)" alt="codingImg" /></p>
 
 <br>
 <br>
