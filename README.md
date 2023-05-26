@@ -20,7 +20,7 @@
 
 - 👨‍💻 My Portfolio [https://vihangaindeewara.github.io/My-Portfolio/](https://vihangaindeewara.github.io/My-Portfolio/)
 
-- 👨‍💻 All of my projects are available at <a href="[https://github.com/VihangaIndeewara](https://github.com/VihangaIndeewara)">Click Me</a> 
+- 👨‍💻 All of my projects are available at <a href="https://github.com/VihangaIndeewara">Click Me</a> 
 
 - 📫 How to reach me **indeewaravihanga@gmail.com**
 
