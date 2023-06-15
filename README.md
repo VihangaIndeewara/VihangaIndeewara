@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **React , React-Native**
 
-- 👨‍💻 My Portfolio  <a href="http://localhost:63342/My-Portfoliyo/index.html?_ijt=3n7sj0trbg6of81b3qmotam4dd">Click Me</a> 
+- 👨‍💻 My Portfolio  <a href="https://vihangaindeewara.github.io/My-Portfolio/">Click Me</a> 
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/VihangaIndeewara?tab=repositories">Click Me</a> 
 
