@@ -16,7 +16,7 @@
 
 - 💻 I’m Studying at **IJSE - Institute of Software Engineering**
 
-- 🌱 I’m currently learning **React , React-Native**
+- 🌱 I’m currently learning **Machine Learning , Web Services**
 
 - 👨‍💻 My Portfolio  <a href="https://vihangaindeewara.github.io/My-Portfolio/">Click Me</a> 
 
