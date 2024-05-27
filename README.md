@@ -14,7 +14,7 @@
 
 - 👨‍🎓 I’m **2nd Year University Student**
 
-- 💻 I’m Studying at **IJSE - Institute of Software Engineering**
+- 💻 I’m Studied at **IJSE - Institute of Software Engineering**
 
 - 🌱 I’m currently learning **Machine Learning , Web Services**
 
